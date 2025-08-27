@@ -1,6 +1,6 @@
 ## SkeletOSS
 
-SkeletOSS, short for Skeletos Open Source Software, is an organization that aims to provide the tools programmers need to learn and implement complex software in the operating systems, networking, and compiler fields. Below you will find the projects currently available to users.
+SkeletOSS, short for Skeletós Open Source Software, is an organization that aims to provide the tools programmers need to learn and implement complex software in the operating systems, networking, and compiler fields. Below you will find the projects currently available to users.
 
 ## Projects
 
