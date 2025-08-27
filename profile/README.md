@@ -10,4 +10,4 @@ A work in progress skeleton operating system. The goal is to provide a modern to
 
 ## Naming
 
-SkeletOSS is based on the Greek word skeletós (skeleton). All of the repositories are skeletons that provide the information and tooling foundation upon which users may build as many layers of robust engineering as they wish.
+SkeletOSS is based on the Greek word skeletós (skeleton). All of the repositories are skeletons that provide a foundation of information, implementation, and tooling upon which users may build as many layers of robust engineering as they wish.
